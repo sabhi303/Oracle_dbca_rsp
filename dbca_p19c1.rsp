@@ -523,7 +523,7 @@ walletPassword=Quest4me
 # Valid values  : The list should be comma separated like "listener1,listener2".
 # Mandatory     : NO
 #-----------------------------------------------------------------------------
-listeners=
+listeners=LISTENER
 
 #-----------------------------------------------------------------------------
 # Name          : variablesFile 
